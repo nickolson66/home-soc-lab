@@ -1,5 +1,5 @@
 # home-soc-lab
-Built a home Security Operations Center lab using Splunk, Sysmon, Kali Linux, and Windows VMs.
+Built a home Security Operations Center lab using Splunk, Sysmon, Kali Linux, and Windows VMs on a refurbished Dell Optiplex.
 
 ## Tools Used
 - Splunk
