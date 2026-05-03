@@ -1,4 +1,0 @@
-# Payload Generation
-
-A reverse TCP payload was generated using msfvenom to simulate malware delivery and establish a remote session upon execution.
-
