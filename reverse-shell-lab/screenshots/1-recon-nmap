@@ -1,0 +1,4 @@
+# Reconnaisance
+
+This scan identified open Windows services (135, 139, 445), indicating potential attack surface for SMB-based exploitation.
+
